@@ -3,5 +3,12 @@
   {
   "name":"erick"
   }
-]
+],
+  "medicine":[
+    {
+      "name": "Panadol"
+    },
+    {
+    "name":"Mara moja"}
+  ]
 }
